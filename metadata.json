@@ -1,0 +1,6 @@
+{
+  "name": "AutoCover Demo",
+  "description": "A clickable prototype demonstrating the AutoCover teacher substitution flow for students and parents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
